@@ -1,0 +1,28 @@
+﻿Stage 2. Design an Algorithmic Solution to your Project
+Proposal.
+Using Object-Oriented or imperative design methodology, plan a solution for the
+project proposal. Express your solution as an algorithm using primitives like the
+ones discussed in Chapter 5 of your text. You are certainly welcome to solicit
+feedback from your instructor during the development of your design document,
+but approval is not required.
+
+
+
+
+
+
+Import Ebird-API
+        input(Species Name)
+                get number of reports
+get species code
+get days since last sighting 
+get checklists
+return(Last seen, Number of birds, Sightings)
+
+
+        
+
+
+Find out what birds were seen
+When last seen
+How many times it was seen
