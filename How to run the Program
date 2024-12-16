@@ -10,7 +10,3 @@ pip install tkintermapview
 pip install ebird.api
 pip install dotenv
 pip install threading
-
-Additionally you must move the OSM file that is part of this repository to the path:
-C:\Users\[Your User]\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\geocoder
-The python version will change depending on what you have installed, and to see certain folders in this path you also need to enable 'view hidden folders' on your windows file explorer
