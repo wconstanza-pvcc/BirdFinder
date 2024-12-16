@@ -1,6 +1,6 @@
 For the project to function you must use python version 3.11+ 
 You must also use Visual Studio Code with the python version of your choice that must be downloaded from the microsoft store.
-You should install the python extension as well 
+You should install the python extension for VS code as well 
 Once in VS code you must open a terminal and run the following commands:
 
 pip install customtkinter
