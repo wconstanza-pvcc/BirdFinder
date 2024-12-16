@@ -1,0 +1,10 @@
+For the project to function you must use python version 3.11+ and you must use the built in funtion: PIP on your python interpreter.
+you must run the following commands:
+pip install customtkinter
+pip install tkintermapview
+pip install ebird.api
+pip install dotenv
+pip install threading
+Additionally you must move the OSM file that is added in the repostiory to the path:
+C:\Users\[Your User]\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\geocoder
+the python version will change depending on what you have installed, and to see certain folders in this path you also need to enable 'view hidden folders' on your windows file explorer
