@@ -3,7 +3,7 @@ You must also use Visual Studio Code with the python version of your choice that
 You should install the python extension for VS code as well 
 You will have to create a folder somewhere on your computer and add all of the files from this repository to it. 
 You will then open VS code and find the option to add a new folder (Found in the explorer tab)
-You must then open a terminal, by going to view and pressing terminal, and then run the following commands:
+You must then open a terminal, by going to view and pressing terminal, and then run the following commands, giving time to complete each action in betweenn:
 
 pip install customtkinter
 pip install tkintermapview
