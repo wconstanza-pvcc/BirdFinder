@@ -18,11 +18,17 @@ get species code
 get days since last sighting 
 get checklists
 return(Last seen, Number of birds, Sightings)
-
-
-        
-
-
-Find out what birds were seen
-When last seen
-How many times it was seen
+Import tkinter, tkintermapview, and Customtkinter
+        get map of Virginia from Tkintermapview
+        Add markers to the map and allow clicking
+On marker click, display:       
+        what birds were seen
+        When last seen
+        How many times they were seen
+Create widget:
+        Address search bar
+        Bird species search bar
+Address search bar input(Address)
+        Use the Nominatim servers to display the address
+Bird species search bar input(Bird name)
+        search for strings in the list that share common characters as the typed response, show those results
