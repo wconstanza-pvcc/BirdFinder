@@ -1,7 +1,9 @@
 For the project to function you must use python version 3.11+ 
 You must also use Visual Studio Code with the python version of your choice that must be downloaded from the microsoft store.
 You should install the python extension for VS code as well 
-Once in VS code you must open a terminal and run the following commands:
+You will have to create a folder somewhere on your computer and add all of the files from this repository to it. 
+You will then open VS code and find the option to add a new folder (Found in the explorer tab)
+You must then open a terminal, by going to view and pressing terminal, and then run the following commands:
 
 pip install customtkinter
 pip install tkintermapview
@@ -9,6 +11,6 @@ pip install ebird.api
 pip install dotenv
 pip install threading
 
-Additionally you must move the OSM file that is added in the repostiory to the path:
+Additionally you must move the OSM file that is part of this repository to the path:
 C:\Users\[Your User]\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\geocoder
 The python version will change depending on what you have installed, and to see certain folders in this path you also need to enable 'view hidden folders' on your windows file explorer
